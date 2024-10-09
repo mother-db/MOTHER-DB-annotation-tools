@@ -14,6 +14,6 @@ Major Code projects include:
 2. Automated annotation Jupyter-Python notebooks that are trained using human-annotated ovary histology images that attempts to identify follicles (across 7 or more known follicle stages) as well as other ovary features such as the corpus luetem or cortex.
 
 
-Funding: MOTHER DB is funded by grant “CIBR Multispecies Ovary Tissue Histology Electronic Repository (MOTHER)” from the National Science Foundation (NSF DBI-2054061, 2021 – 2024).
+Funding: MOTHER DB is funded by grant “CIBR Multispecies Ovary Tissue Histology Electronic Repository (MOTHER)” from the National Science Foundation (NSF DBI-2054061, 2021–2025).
 
 Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
