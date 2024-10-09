@@ -1,0 +1,24 @@
+Summary counts:
+Annotations matched by location but not necessarily by follicle type.
+Row is annotator #0, column is annotator #1. Total non-matching follicles types is 121.
+Annotator 0: mazooz_measurements
+Annotator 1: yding98_measurements
+
+                           Uncla Primo Trans Prima Trans Secon Multi   AMF Antra Atret Multi Unkow Corpu Blood Corte Corte   PIE 
+             Unclassified:     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .
+               Primordial:     .   472    19     .     .     .     .     .     1     .     1     5     .     .     .     .     .
+  Transitional Primordial:     .    42    18     1     .     1     .     .     .     .     1     3     .     .     .     .     .
+                  Primary:     .     4     4     4     .     .     .     .     .     .     .     .     .     .     .     .     .
+     Transitional Primary:     .     3     6     2     9     .     .     .     .     .     .     .     .     .     .     .     .
+                Secondary:     .     1     1     4     3    10     .     .     .     .     1     3     .     .     .     .     .
+               Multilayer:     .     .     .     1     1     .     5     .     .     .     7     1     .     .     .     .     .
+                      AMF:     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .
+                   Antral:     .     .     1     .     .     .     .     .     8     1     .     .     .     .     .     .     .
+           Atretic Antral:     .     .     .     .     .     .     .     .     2     8     .     .     .     .     .     .     .
+            Multi-oocytic:     .     1     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .
+                  Unkown?:     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .
+            Corpus Luteum:     .     .     .     .     .     .     .     .     .     .     .     .     1     .     .     .     .
+             Blood Vessel:     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .
+      Cortex Outer Border:     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .
+      Cortex Inner Border:     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .
+                      PIE:     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .     .

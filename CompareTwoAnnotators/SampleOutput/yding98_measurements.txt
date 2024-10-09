@@ -1,0 +1,582 @@
+Image	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	Num points	Area µm^2	Perimeter µm
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	592.01	209.11	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	1480.3	895.79	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1484.5	859.38	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	666.78	50.93	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	588.55	1693.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1067.1	1610.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	529.26	95.63	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	377.2	1246.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1094.9	1595.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	1295.4	341.82	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1292.3	306.77	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	609.63	1698.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1236.6	447.79	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	873.1	98.53	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	564.35	92.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	881.28	87.18	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1466.8	1256.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1097.7	1619.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	1358.4	396.31	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	817.01	1728.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	463.51	337.86	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	338.42	1240.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	395.01	1365.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	371.52	1321.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multilayer	Multilayer	Image	Points	1327.1	375.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	401.27	1402	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multilayer	Multilayer	Image	Points	205.15	324.99	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	527.04	1619.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1018.2	1620.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	307.13	187.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	449.75	1510.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	933.31	1689.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	693.75	69.88	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	469.62	1536.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	235.82	286.52	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	373.19	1343.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	191.51	412.17	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	564.51	1630.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	490.22	1579.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	332.08	1297.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1457.7	1262.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	728.43	64.61	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1233.3	1512.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	911.92	1677.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	624.18	1725.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	708.19	51.43	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	771.8	1616.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	561.37	1608.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	690.75	1713	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	1477	1070.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	572.73	1658.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	707.39	68.51	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1114.4	1604.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	347.91	1307	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	1154.4	192.01	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	386.46	1340.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	508.58	98.07	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	232.84	389.19	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	503.44	108.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	554.91	1600.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	546.23	1635.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	348.8	1242.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	654.22	1728.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	675.73	1724.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	325.93	1242.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	437.62	1433.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	398.82	1441.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	537.13	1637.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	880.18	73.77	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	607.54	56.59	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	580.82	64.07	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1129.8	1570.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1480.7	1206.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	358.29	1191.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	455.04	125.04	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	502.92	1308.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	873.31	1626.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1201.9	234.57	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1447	526.96	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	905.26	102.58	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1372	1365.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	711.32	59.37	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	489.63	1550.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	975.27	100.15	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1016.7	1656.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	592.09	1630.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	1074.3	156.43	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1082.7	1610.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	569.04	103.16	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1153.8	1578.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1052.8	1615.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	756.11	1724.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1236.9	267.95	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1053.9	1597.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	866.8	1693.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	778.93	181.32	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	235.18	237.07	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	496.72	802.59	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	689.66	54.48	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	815.68	1706.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	298.89	1118.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	228.77	822.28	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	763.86	1737.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1359	1358.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	581.97	1609.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1306.2	1417.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	461.54	1122.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	567.99	1655	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	352.68	1359.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	482.26	1531.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	637.71	49.78	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	1215.2	257.03	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	670.14	1718.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	1497.3	992.53	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	773.1	1732	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	620.88	59.44	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	771.35	40.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	435.26	1394.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	923.22	100.32	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	804.25	1727.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	705.93	1708.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	521.67	1607.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	722.9	39.74	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	990.32	107.12	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1188.4	1545.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	698.4	64.82	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	798.4	1707.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	331.54	1320.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	789.65	45.02	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	767.46	75.16	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1464	1186.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	843.08	1709.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	960.76	97.96	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	303.02	1132.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	192.31	383.68	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	218.61	257.23	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	404.81	1427.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	555.07	85.27	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	664.24	1741.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	202.67	410.89	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	257.89	899.76	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	351.99	130.59	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1502.7	713.22	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1413.1	468.14	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1390.6	1342.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1034.6	1642.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1081.4	1600.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	562.27	1660.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1103.4	1601.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	499.07	1527.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	878.14	1698.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	172.65	359.12	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	348.09	1316.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1004.2	1662	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	781.83	86.63	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1343.9	1393.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	545.97	1625.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	888.19	1697.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	424.04	1429.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1175	1560.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1025.1	1647.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	360.88	1328.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	929.57	1696.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	337.98	1326.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1319.9	336.86	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	376.91	125.92	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	256.82	1014.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	305.29	1139.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	448.99	1496.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	424.96	1411.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1128.9	1582.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	233.24	876.86	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	792.45	1728.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	448.14	1516.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1096.5	1611.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1107.7	152.79	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	651.41	51.14	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1108.8	1586.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	292.79	1129.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	237.1	269.95	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	300.05	167.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	253.65	357.14	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	378.84	1398.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	425.54	1421.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	560.61	1638.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	798.32	1729.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	498.79	97.06	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	312.26	993.16	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	833.68	66.18	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	874.9	84.32	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1192.1	1536.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	683.41	77.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	639.15	1672	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	624.07	1718.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1475.7	550.18	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1195.9	1550.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	215.01	308.74	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1280.5	281.59	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1139.2	1564.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1065.6	1592.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	246.96	855.53	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1352.7	376.81	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1184.4	1534.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1080.4	1621.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	970.59	1639.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1497.3	977.49	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	307.89	172.97	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1503	950.34	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1009.9	1627.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	596.56	1698.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	951.95	1670.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	665.4	67.06	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1098.9	161.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	461.23	1528.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	881.53	1691.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	763.58	41.43	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1261.5	1485.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1277.8	1469	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1143.8	1551.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	181.57	365.98	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	544.71	121.92	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	319.9	1234.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1435.4	508.51	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	676.99	1691.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1113.2	1560.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	720.24	1467.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	454.15	1505.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	463.13	1499.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	948.67	1661.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	976.97	1622.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1115.6	1583.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	452.65	101.26	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1362.2	369.69	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	898	91.14	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	243.98	876.71	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	224.9	289.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	192.83	312.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1127.4	1593.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1010.2	113.89	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	382.78	1407.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	644.52	1731.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	613.53	1401.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	674.58	54.55	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1271.9	1482.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	324.67	273.25	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	916.91	93.08	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1243	285.45	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	547.26	1608.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1089.2	1620.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1269.3	1473.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	204.37	344.45	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	499.96	1567.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	810.71	1686.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	686.22	1726.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	627.32	62.38	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	513.78	1585.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	572.05	1555.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1059.9	1614.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	665.82	1703.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	822.8	1701	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1507.4	720.95	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multilayer	Multilayer	Image	Points	1487.6	952.84	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	222.59	584.16	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1233.4	242.37	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	238.76	832.27	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	342.19	1316.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	503.4	87.96	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	854.07	1709.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	179.09	375.24	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	974.99	114.51	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1169.3	215.46	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	538.35	91.33	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1488.3	924.57	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	815.68	1675.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1285.6	308.48	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	448.31	1488.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	507.32	1585	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	800.59	1719.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	826.44	1709.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1057.7	1608.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1147	1573.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1260.4	277.89	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	477.11	1546.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	615.95	1722.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1120.5	1578.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	338.98	786.76	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	435.87	116.62	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	397.66	1432.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1496.1	573.31	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	565.85	1616	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	764.02	1746.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	954.67	109.31	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	294.61	184.44	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	990.32	116.76	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1126.4	1552.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1404.8	441.47	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	791.74	1718.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1506.3	972.49	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	240.4	886.55	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	325.06	1215	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	746.5	42.59	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	182.3	333.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1018.7	115.88	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	865.64	1712	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	925.39	93.18	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	744.34	67.57	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1330	350.44	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1509	694.48	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	885.46	79.05	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	451.49	1465.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	699.53	57.13	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	485.75	1544.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1052.6	131.08	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	993.64	1649.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	674.25	1739.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1027.1	1638.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	390.05	1395	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	721.15	1718.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1214.2	240.53	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1157.1	1569.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	PIE	PIE	Image	Polygon	NaN	NaN	NaN	0	21733.8
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multilayer	Multilayer	Image	Points	1031.8	1593.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1060.5	143.32	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	876.04	1676.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	380.36	1357.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	247.63	319.66	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1308.3	332.51	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	613.34	75.54	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	803.95	67.29	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	565.23	80.48	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	882.82	1670.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	519.74	1582.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1074	1625.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	992.37	1664.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1045.7	112.15	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1427.7	502.61	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	296.74	1147.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	398.56	1409.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	611.53	1707.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1424.7	455.94	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	964.72	1666.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	998.19	1632.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Corpus Luteum	Corpus Luteum	Image	Ellipse	1095.7	1024.7	NaN	391215.6	2311.3
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	182.01	413.33	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1074.1	1609.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1106.6	1576.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	1141.4	189.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	572.1	1632.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	751.73	1734.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	903.5	1676.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	891.51	89.16	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1508.5	643.74	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	932.73	98.15	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	425.16	123.41	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1234.1	252.69	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1291.7	295.23	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1064.8	1602.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1225.1	250.21	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1002.8	1626.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	436.49	1484.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1201.2	1523.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	249.2	904.75	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1433.2	1293.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	573.22	1608.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1509.6	674.43	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1173.3	1528.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1058.6	118.95	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	1457.3	790.95	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	595.92	1687.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	925.59	1691.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1095.9	1585.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	238.9	297.95	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	577.69	1667.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	646.9	56.12	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	414.54	1429.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	838.4	1685.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	586.69	74.85	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	469.87	100.49	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1151.1	1564.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	553.8	124.76	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	542.69	1598.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	415.92	114.04	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	461.97	98.35	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Polygon	362.97	1068.2	NaN	5856.2	299.87
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	835.37	1700.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	961.61	1675.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1337.7	348.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1498.9	968.61	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1112.1	1596.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1443.9	1289.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	516.96	1592.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	775.78	54.02	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	661.39	1715.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	1375.6	419.85	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	734.06	1729.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	509.8	1525	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	996.17	99.65	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	554.09	1581.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1397.8	401.34	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	342.88	147.45	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	871.71	1701.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	634.72	1653.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1012.2	1648.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	242.37	205.34	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	787.9	1736.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	354.35	1317.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	526.66	1549.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1245.8	1500.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	643.32	79.49	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	359.01	1348.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1417.8	451.99	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1039	1632.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1340.3	478.39	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	1300.1	1404	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1170.5	1576.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	755.88	1744.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	468.19	1528.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1321	1401.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	222.72	263.14	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	615.32	1713.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	435.52	1424.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	183.12	305.78	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primary	Primary	Image	Points	365.15	1267.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1038.2	127.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	605.1	1687.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	411.78	1413.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1029	122.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1447	515.93	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	621.23	1709.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1004.3	1647.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	392.42	1233.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1486.1	870.39	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	531.17	1575.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	638.91	58.89	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	356.32	1340.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1042.7	120.61	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1206	1534.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1080.3	137.04	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	558.29	105.21	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1162.6	1578.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	444.04	95.41	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	862.56	71.69	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1135.7	168.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	590.44	1682.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1080.7	1574.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1093.8	142.66	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	320.23	1142.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1285.6	300.34	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	478.05	1452	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multilayer	Multilayer	Image	Points	799.87	89.52	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	955.78	248.27	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	419.67	1462	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	895.69	82.01	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1124.7	170.47	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1376	381.65	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	187.83	342.83	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	576.06	74.07	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1249.6	260.26	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	381.87	1283.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1353.3	1382.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	761.24	66.77	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	869.65	80.97	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	984.27	100.93	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1099.7	148.43	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	404.47	1416.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	182.65	394.33	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	696.03	1742	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	483.8	1467.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	226.19	307.84	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	299.19	1160.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1258	1477.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1356.6	1326.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	200.88	401.26	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	735.2	51.09	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	307.36	1152.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1442	1277.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	184.4	356.29	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	317.48	1243.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1147.1	1586.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	262.18	837.04	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	268.49	892.69	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	270.9	195.15	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	848.34	1683.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	516.54	141.76	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1179.1	1551.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	186.06	318.27	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	333.69	1313	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	916.83	1682.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	681.87	1713	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Antral	Antral	Image	Points	1400.9	1237.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	239.67	279.32	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	1109.2	363.67	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	1015.1	128.34	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1277.8	311.51	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1259.8	288.55	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	640.31	1684.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	190.49	365.04	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	780.78	1735.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	842.03	1718.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	352.46	692.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	964.62	118.86	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	547.46	1566.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	551.45	113.42	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1024.4	105.85	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1142.6	1539.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	415.79	122.19	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1351	367.33	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	994.38	1642.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	359.9	1311.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Secondary	Secondary	Image	Points	701.37	84.39	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	451.7	1525.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	233.63	225.51	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	184.83	326.02	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1104	1616.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	615.85	1690	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1410	421.11	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1379	1347	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	234.92	206.75	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	211.37	289.24	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	603.62	1668.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	470.65	1519.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	979.68	1659.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1305.9	1425	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	694.92	1705.3	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primary	Transitional Primary	Image	Points	1312.8	357.67	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	887.26	1674.4	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1163.3	1557.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	604.25	1713.6	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	963.51	1651.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1049.9	123.39	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	388.18	1326.8	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1074	1617	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	721.98	56.81	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	915.15	101.25	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1167.3	188.85	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	632.84	79.58	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Multi-oocytic	Multi-oocytic	Image	Points	635.92	1527.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1225.7	1516.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	529.85	102.96	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	794.41	1327.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1510	665.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	652.64	1720	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	290.59	216.94	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Atretic Antral	Atretic Antral	Image	Points	1417.5	607.42	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	880.13	1707.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1045.6	1640.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	359.94	133	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	651.57	45.08	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	1016.6	106.77	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	399.9	1391.9	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Unkown?	Unkown?	Image	Points	1267.4	286.57	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	786.96	1725.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1148	182	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	927.15	104.14	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	437.94	1447.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	895.8	100.05	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	192.55	353.89	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1518.5	1135.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1091.5	1604.5	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	696.08	47.1	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	549.5	92.99	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	319.46	151.27	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	393.56	1413	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	626.81	1665.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1131	174.58	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	406.13	1407	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	431.41	132.24	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	665.08	77.43	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Transitional Primordial	Transitional Primordial	Image	Points	813.44	79.14	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	345.76	1324	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	855.82	1698	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1150.7	1539.7	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1054.9	1634.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1483.9	913.68	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	191.95	303.27	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	592.54	68.07	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	744.85	1742	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	475.42	153.98	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1417.3	437.35	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	1060.6	1634.2	1	NaN	NaN
+DP28_25081_Section3_10X_ome_copy.tif - MIA	Primordial	Primordial	Image	Points	638.08	68.91	1	NaN	NaN

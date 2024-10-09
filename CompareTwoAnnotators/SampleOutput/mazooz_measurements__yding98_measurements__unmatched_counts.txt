@@ -1,0 +1,23 @@
+Annotations in one annotator's, but not in the other annotator's set.
+Note: These are the 63 annotations that were only found by one annotator.
+Annotator 0: mazooz_measurements
+Annotator 1: yding98_measurements
+
+            Follicle Type     Annot#0   Annot#1
+             Unclassified         0         0
+               Primordial         0        53
+  Transitional Primordial         0         3
+                  Primary         0         0
+     Transitional Primary         0         0
+                Secondary         0         0
+               Multilayer         1         0
+                      AMF         0         0
+                   Antral         0         1
+           Atretic Antral         0         0
+            Multi-oocytic         0         1
+                  Unkown?         0         4
+            Corpus Luteum         0         0
+             Blood Vessel         0         0
+      Cortex Outer Border         0         0
+      Cortex Inner Border         0         0
+                      PIE         0         0

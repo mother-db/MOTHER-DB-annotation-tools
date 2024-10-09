@@ -1,0 +1,23 @@
+Annotations in BOTH annotators, but not necessarily the same follicle type
+Note: There are 63 annotations that were only found by one annotator and are not included here.
+Annotator 0: mazooz_measurements
+Annotator 1: yding98_measurements
+
+            Follicle Type   Annot#0  Annot#1
+             Unclassified       0       0
+               Primordial     498     523
+  Transitional Primordial      66      49
+                  Primary      12      12
+     Transitional Primary      20      13
+                Secondary      23      11
+               Multilayer      15       5
+                      AMF       0       0
+                   Antral      10      11
+           Atretic Antral      10       9
+            Multi-oocytic       1      10
+                  Unkown?       0      12
+            Corpus Luteum       1       1
+             Blood Vessel       0       0
+      Cortex Outer Border       0       0
+      Cortex Inner Border       0       0
+                      PIE       0       0
