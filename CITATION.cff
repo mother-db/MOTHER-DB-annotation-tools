@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sluka"
+  given-names: "James"
+  orcid: "https://orcid.org/0000-0002-5901-1404"
+- family-names: "Watanabe"
+  given-names: "Karen"
+- family-names: "Dietrigh"
+  given-names: "Suzanne"
+title: "MOTHER-DB annotation code"
+version: 1.0.0
+date-released: 2024-10-09
+url: "https://github.com/mother-db/MOTHER-DB"
