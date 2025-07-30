@@ -1,3 +1,7 @@
+# MOTHER-DB project
+
+Image segmentation of ovarian follicles, part of https://mother-db.org/
+
 ## Program 1, Train Image Generation.ipynb, Version 5_3, March 7, 2025:
 Creation of sub-images from a set of annotated histology images and files of annotations.
 
