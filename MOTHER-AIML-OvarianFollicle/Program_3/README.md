@@ -1,5 +1,5 @@
 # MOTHER AI/ML Ovarian Follicle classification.
-## Part of the MOTHER Projectd
+## Part of the MOTHER Project
 
 ### Program 3
 
