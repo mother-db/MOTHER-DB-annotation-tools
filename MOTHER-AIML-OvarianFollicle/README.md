@@ -11,4 +11,5 @@ This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, vis
 MOTHER DB is funded by grant “CIBR Multispecies Ovary Tissue Histology Electronic Repository (MOTHER)” from the National Science Foundation (NSF DBI-2054061, 2021–2025).
 
 ## Disclaimer
-Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) 
+and do not necessarily reflect the views of the National Science Foundation.
