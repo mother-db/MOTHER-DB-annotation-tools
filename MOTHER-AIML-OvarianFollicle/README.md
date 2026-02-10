@@ -14,7 +14,7 @@ https://dataverse.asu.edu/dataset.xhtml?persistentId=doi:10.48349/ASU/BOK3VO
 
 The complete data set, including 
 negatives and augmentations is 120GB. Smaller date sets, without negatives or augmentations are also available. 
-For filenaming conventions, folder and file contents, etc. see the README.
+For filenaming conventions, folder and file contents, etc. see the description in the repository and the README file.
 
 ## License
 This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ 
