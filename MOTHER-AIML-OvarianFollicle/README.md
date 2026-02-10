@@ -2,6 +2,16 @@
 
 Image segmentation of ovarian follicles, part of https://mother-db.org/
 
+## Replication Data
+
+We have shared the complete set of original histology imagers, anntation files, sub-images (220x220 pixel images 
+centered on a manually annoted follcile) and other data. The data may be of use to others interested in developing 
+automated segmentaion protocols. Our data is all for non-human (monkey) species.
+
+### Replication Data for: Follicle Identification in Primate Ovaries via Machine Learning as Arizona State University
+
+https://dataverse.asu.edu/dataset.xhtml?persistentId=doi:10.48349/ASU/BOK3VO 
+
 ## License
 This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ 
 
