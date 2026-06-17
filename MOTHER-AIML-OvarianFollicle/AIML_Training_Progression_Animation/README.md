@@ -7,5 +7,5 @@ The animation file "Predictions and Probabilities for Each Epoch.mp4" shows the 
  * The left hand panel is the full slide prediction. 
  * The center panel is zoomed into a region in the upper left of the full slide, and shows colored X's marking manual anotations and colored pixels marking ML predictions.
  * The right hand panel is zoomed into a region in the upper left of the full slide, and shows the per-pixel confidence of prediction for the ML.
-   Light colors are high confidence and dark colors low confidence.
+   Light colors are high confidence and dark colors low confidence. Black is an artifact and indicates high confidence.
    
