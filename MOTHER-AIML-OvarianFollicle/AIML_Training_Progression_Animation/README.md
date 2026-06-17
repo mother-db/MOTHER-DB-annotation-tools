@@ -1,6 +1,6 @@
 # Animation of training progress
 
-The animation file "Predictions and Probabilities for Each Epoch.mp4" shows the training progress from epoch 1 through epoch 25. 
+The animation file "Predictions and Probabilities for Each Epoch.mp4" shows the training progress from epoch 1 through epoch 25. Below is the animated gif version. Download the mp4 version to view the animation with a slider control in your favorite movie viewer.
 
 <img width="600" alt="Predictions and Probabilities for Each Epoch" src="https://github.com/user-attachments/assets/2eccbd5e-cc4f-4099-86a4-34aa85e3876c" />
 
