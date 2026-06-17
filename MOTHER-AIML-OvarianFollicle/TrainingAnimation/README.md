@@ -2,7 +2,7 @@
 
 The animation file "Predictions and Probabilities for Each Epoch.mp4" shows the training progress from epoch 1 through epoch 25. 
 
-<img width="855" height="616" alt="image" src="https://github.com/user-attachments/assets/9c768d20-442a-42ca-b70b-06a5f4cc0998" />
+<img width="500" alt="movie screen shot" src="https://github.com/user-attachments/assets/9c768d20-442a-42ca-b70b-06a5f4cc0998" />
 
  * The left hand panel is the full slide prediction. 
  * The center panel is zoomed into a smaller region of the full slide and shows colored X's marking manual anotions and colored pixels marking ML predictions.
