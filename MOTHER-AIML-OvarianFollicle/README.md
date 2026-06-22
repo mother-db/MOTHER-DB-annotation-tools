@@ -18,7 +18,7 @@ For filenaming conventions, folder and file contents, etc. see the description i
 
 ## Supplemental data for the paper
 
-The raw data for the confusion matrices shown in the paper and supplemental material is in the file `Raw_confusion_matrices.xlsx`.
+The raw data for the confusion matrices shown in the paper and supplement is in the file `Raw_confusion_matrices.xlsx`.
 
 ## License
 This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ 
